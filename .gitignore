@@ -1,0 +1,17 @@
+# Data (fetched via data/download_data.py)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
